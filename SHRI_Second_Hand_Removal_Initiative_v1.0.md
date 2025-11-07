@@ -10,7 +10,7 @@ doi: "Awaiting"
 
 # The Second Hand Removal Initiative (SHRI)
 
-**Preprint • v1.0 • DOI: [10.5281/zenodo.13634893](https://doi.org/10.5281/zenodo.13634893)**  
+**Preprint • v1.0 • DOI: Awaiting**  
 **License: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)** — Full public domain dedication
 
 ## Abstract
