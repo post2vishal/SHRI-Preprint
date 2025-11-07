@@ -80,6 +80,6 @@ Dedicated to open science and planetary healing. Computational support: xAI Grok
 - Johnson (2018). *Quartz Clock Power Consumption*. DIYAudio Forum.
 - ISO 14040:2006. Environmental management — Life cycle assessment.
 
-**Repository:** https://github.com/YOUR_USERNAME/SHRI-Preprint  
+**Repository:** https://github.com/post2vishal/SHRI-Preprint  
 **DOI:** https://doi.org/10.5281/zenodo.13634893  
 **License:** CC0 1.0 Universal — Public Domain Dedication
