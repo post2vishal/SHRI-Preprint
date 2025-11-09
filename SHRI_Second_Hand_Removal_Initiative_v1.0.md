@@ -10,7 +10,7 @@ doi: "10.5281/zenodo.17564828"   # REPLACE WITH REAL DOI AFTER PUBLISH
 tags: [sustainability, circular-economy, energy-conservation, LCA, SDG12, open-science]
 ---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17564828.svg)](https://doi.org/10.5281/zenodo.17564828)  
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 [![SDG 12](https://img.shields.io/badge/SDG-12_Responsible_Consumption_&_Production-EA8D1F.svg)](https://sdgs.un.org/goals/goal12)  
 
