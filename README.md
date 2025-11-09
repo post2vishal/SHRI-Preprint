@@ -5,7 +5,7 @@ The Second Hand Removal Initiative: A Micro-Engineering Intervention for Macro-S
 
 # Second Hand Removal Initiative (SHRI)  
 **v1.0 • Preprint • November 07, 2025**  
-**DOI:** [Awaiting]) (once published)  
+**DOI:** [https://doi.org/10.5281/zenodo.17564827](https://doi.org/10.5281/zenodo.17564827)
 **License:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain  
  
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
