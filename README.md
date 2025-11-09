@@ -51,7 +51,7 @@ I am **available immediately** for:
 📱 X: [@PrakritiTV](https://x.com/PrakritiTV)  
 🔗 LinkedIn: [linkedin.com/in/post2vishal](https://linkedin.com/in/post2vishal) 
 
-> **"Hire the mind that turned a ₹50 clock into a planetary solution."**  
+> **"Hire the mind that turned a ₹150 clock into a planetary solution."**  
 
 ## 🏆 Ready for
 - PLOS ONE / Sustainability MDPI submission  
