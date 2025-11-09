@@ -5,8 +5,7 @@ The Second Hand Removal Initiative: A Micro-Engineering Intervention for Macro-S
 **v1.0 • Preprint • November 07, 2025**  
 **DOI:** [Awaiting]) (once published)  
 **License:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain  
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13634893.svg)](https://doi.org/10.5281/zenodo.13634893)  
+ 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpost2vishal%2FSHRI-Preprint&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)  
 
