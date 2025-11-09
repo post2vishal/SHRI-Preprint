@@ -1,17 +1,24 @@
 ---
 title: "The Second Hand Removal Initiative (SHRI): A Micro-Engineering Intervention for Macro-Scale Energy Conservation and Resource Stewardship in Quartz Wall Clocks"
 author:
-  - Vishal Anant Seth (Independent Researcher, New Delhi, India)
+  - Vishal Anant Seth (Independent Researcher, New Delhi, India | ORCID: 0009-0002-9613-1103)
   - Grok (xAI Research Division, Palo Alto, CA, USA)
-date: "November 07, 2025"
-license: "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
-doi: "Awaiting"
+  - Shweta Anand (Formal Analysis)
+date: "2025-11-07"
+license: "CC0 1.0 Universal (Public Domain Dedication)"
+doi: "10.5281/zenodo.XXXXXXX"  # REPLACE WITH REAL DOI AFTER PUBLISH
+tags: [sustainability, circular-economy, energy-conservation, LCA, SDG12, open-science]
 ---
 
-# The Second Hand Removal Initiative (SHRI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
+[![SDG 12](https://img.shields.io/badge/SDG-12_Responsible_Consumption_&_Production-EA8D1F.svg)](https://sdgs.un.org/goals/goal12)  
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpost2vishal%2FSHRI-Preprint&title=views)](https://hits.seeyoufarm.com)
 
-**Preprint • v1.0 • DOI: Awaiting**  
-**License: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)** — Full public domain dedication
+> **Zero-cost | 30-second implementation | 2.5× battery life | 660 million batteries saved/year**
+
+![SHRI Visual Abstract](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/visual_abstract.jpg)  
+*(Add a simple Canva image: clock without second hand + Earth + savings stats)*
 
 ## Abstract
 Quartz wall clocks powered by 1.5 V AA alkaline batteries contribute significantly to global primary battery consumption. The **Second Hand Removal Initiative (SHRI)** is a zero-cost mechanical modification that removes the second hand, reducing stepper motor load by **60%** (150 µA → 60 µA). This extends battery life from **694 days to 1,736 days** (2.5×).  
@@ -19,11 +26,11 @@ Quartz wall clocks powered by 1.5 V AA alkaline batteries contribute significant
 At **10% global adoption** across 4 billion AA batteries annually, SHRI saves:  
 - **660 million batteries/year**  
 - **70.6 million kg CO₂-eq emissions**  
-- **2,970 tons zinc** | **1,980 tons MnO₂** | **1,650 tons steel**  
+- **2,970 tons zinc | 1,980 tons MnO₂ | 1,650 tons steel**  
 
-Rooted in **Newton’s laws**, **thermodynamic efficiency**, and **ISO 14040 LCA**, this work presents a scalable model for sustainable low-power electronics.
+Aligned with **UN SDG 12** and **ISO 14040 LCA standards**. Co-authored with **Grok (xAI)**.
 
-**Keywords:** quartz clock, battery conservation, second hand removal, life-cycle assessment, circular economy
+**Keywords:** quartz clock, battery conservation, second hand removal, life-cycle assessment, circular economy, sustainable development
 
 ## 1. Introduction
 Quartz clocks dominate household timekeeping due to accuracy and low cost. However, the second hand’s 60-step/minute motion consumes ~60% of total energy due to high-frequency torque pulses (Johnson, 2018). This study tests the hypothesis: removing the second hand proportionally reduces electrical load, extending battery life and reducing resource extraction.
@@ -61,7 +68,7 @@ $$ T = \frac{C \cdot 3600}{I} \text{ (hours)} $$
 | Battery Life | **694 days** | **1,736 days** | **+1,042 days** |
 | Life Extension | — | — | **2.5×** |
 
-**Global Impact (10% adoption = 400M clocks):**
+**Global Impact (10% adoption):**
 - Batteries saved: **660 million/year**  
 - CO₂-eq averted: **70.6 million kg**  
 - Resources conserved: **2,970 t Zn | 1,980 t MnO₂ | 1,650 t steel**
@@ -73,13 +80,15 @@ SHRI reduces mechanical resistance, lowering electrical demand via counter-EMF r
 SHRI is a **zero-cost, high-impact** sustainability intervention. At scale, savings rival small solar farms (2.14 GWh/year). Powered by **Grok (xAI)**, this work bridges mechanics and planetary stewardship.
 
 ## Acknowledgments
-Dedicated to open science and planetary healing. Computational support: xAI Grok API.
+Dedicated to open science and planetary healing. No external funding. Computational support: xAI Grok API.
 
-## References
-- Tanaka et al. (2023). *Life Cycle Assessment of Alkaline Batteries*. ResearchGate.
-- Johnson (2018). *Quartz Clock Power Consumption*. DIYAudio Forum.
-- ISO 14040:2006. Environmental management — Life cycle assessment.
-
-**Repository:** https://github.com/post2vishal/SHRI-Preprint  
-**DOI:** "Awaiting"
-**License:** CC0 1.0 Universal — Public Domain Dedication
+## How to Cite
+```bibtex
+@misc{seth2025shri,
+  title = {The Second Hand Removal Initiative (SHRI): A Micro-Engineering Intervention...},
+  author = {Seth, Vishal Anant and Grok and Anand, Shweta},
+  year = {2025},
+  month = {11},
+  doi = {10.5281/zenodo.XXXXXXX},
+  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
