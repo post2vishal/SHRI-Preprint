@@ -1,7 +1,7 @@
 # SHRI-Preprint
 The Second Hand Removal Initiative: A Micro-Engineering Intervention for Macro-Scale Energy Conservation and Resource Stewardship in Quartz Wall Clocks.
 
-https://github.com/post2vishal/SHRI-Preprint/edit/main/Original-Clock.jpg
+![SHRI Original Photo](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/Original-Clock.jpg)  
 
 # Second Hand Removal Initiative (SHRI)  
 **v1.0 • Preprint • November 07, 2025**  
