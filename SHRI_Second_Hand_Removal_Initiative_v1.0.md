@@ -18,7 +18,7 @@ tags: [sustainability, circular-economy, energy-conservation, LCA, SDG12, open-s
 > **Zero-cost | 30-second implementation | 2.5× battery life | 660 million batteries saved/year**
 
 ![SHRI Visual Abstract](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/visual_abstract.jpg)  
-*(Add a simple Canva image: clock without second hand + Earth + savings stats)*
+*(Image of Wall Clock taken after Second Needle or Second Hand Removal)*
 
 ## Abstract
 Quartz wall clocks powered by 1.5 V AA alkaline batteries contribute significantly to global primary battery consumption. The **Second Hand Removal Initiative (SHRI)** is a zero-cost mechanical modification that removes the second hand, reducing stepper motor load by **60%** (150 µA → 60 µA). This extends battery life from **694 days to 1,736 days** (2.5×).  
