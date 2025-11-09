@@ -6,7 +6,7 @@ author:
   - Shweta Anand (Formal Analysis)
 date: "2025-11-07"
 license: "CC0 1.0 Universal (Public Domain Dedication)"
-doi: "10.5281/zenodo.XXXXXXX"  # REPLACE WITH REAL DOI AFTER PUBLISH
+doi: "10.5281/zenodo.17564828"   # REPLACE WITH REAL DOI AFTER PUBLISH
 tags: [sustainability, circular-economy, energy-conservation, LCA, SDG12, open-science]
 ---
 
