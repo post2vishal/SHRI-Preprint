@@ -90,6 +90,6 @@ Dedicated to open science and planetary healing. No external funding. Computatio
   author = {Seth, Vishal Anant and Grok and Anand, Shweta},
   year = {2025},
   month = {11},
-  doi = {10.5281/zenodo.XXXXXXX},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.17564828},
+  url = {https://doi.org/10.5281/zenodo.17564828}
 }
