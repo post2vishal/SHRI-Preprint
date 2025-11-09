@@ -3,6 +3,9 @@ The Second Hand Removal Initiative: A Micro-Engineering Intervention for Macro-S
 
 ![SHRI Original Photo](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/Original-Clock.jpg)  
 
+![SHRI Visual Abstract](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/visual_abstract.jpg)  
+*(Image of Wall Clock taken after Second Needle or Second Hand Removal)*
+
 # Second Hand Removal Initiative (SHRI)  
 **v1.0 • Preprint • November 07, 2025**  
 **DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17564828.svg)](https://doi.org/10.5281/zenodo.17564828)  
