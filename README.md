@@ -49,7 +49,7 @@ I am **available immediately** for:
 **Contact**:  
 📧 prakrititvofficial@gmail.com  
 📱 X: [@PrakritiTV](https://x.com/PrakritiTV)  
-🔗 LinkedIn: [linkedin.com/in/post2vishal](https://linkedin.com/in/post2vishal) (update with yours)  
+🔗 LinkedIn: [linkedin.com/in/post2vishal](https://linkedin.com/in/post2vishal) 
 
 > **"Hire the mind that turned a ₹50 clock into a planetary solution."**  
 
