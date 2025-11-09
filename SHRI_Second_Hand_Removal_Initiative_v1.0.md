@@ -17,6 +17,8 @@ tags: [sustainability, circular-economy, energy-conservation, LCA, SDG12, open-s
 
 > **Zero-cost | 30-second implementation | 2.5× battery life | 660 million batteries saved/year**
 
+
+![SHRI Original Photo](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/Original-Clock.jpg)  
 ![SHRI Visual Abstract](https://raw.githubusercontent.com/post2vishal/SHRI-Preprint/main/visual_abstract.jpg)  
 *(Image of Wall Clock taken after Second Needle or Second Hand Removal)*
 
